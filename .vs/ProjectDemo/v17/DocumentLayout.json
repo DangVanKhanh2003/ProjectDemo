@@ -1,0 +1,531 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\entites\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\entites\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152251_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125152251_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\entites\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\entites\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152046_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125152046_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152032_initd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125152032_initd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\entites\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\entites\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151757_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125151757_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151456_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125151456_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151019_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125151019_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125144610_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125144610_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125144205_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125144205_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125143815_addIdentifyForIdProduct1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125143815_addIdentifyForIdProduct1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125143231_addIdentifyForIdProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125143231_addIdentifyForIdProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125142649_changeTypeOfColor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125142649_changeTypeOfColor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\model\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\model\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\helper\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\helper\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\helper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\helper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\viewmodel\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\viewmodel\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\khanh084\\source\\repos\\projectdemo\\projectdemo\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293DE96D-B8AA-449E-8B3B-2B3651EF1E76}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125094734_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectDemo\\Migrations\\20241125094734_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241125152251_init.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152251_init.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125152251_init.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152251_init.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125152251_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:22:52.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241125152046_init.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152046_init.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125152046_init.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152046_init.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125152046_init.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:20:46.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241125152032_initd.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152032_initd.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125152032_initd.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125152032_initd.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125152032_initd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:20:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241125151757_init.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151757_init.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125151757_init.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151757_init.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125151757_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:17:57.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Entites\\Products.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Entites\\Products.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Entites\\Products.cs",
+              "RelativeToolTip": "ProjectDemo\\Entites\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:57:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Entites\\Categories.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Entites\\Categories.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Entites\\Categories.cs",
+              "RelativeToolTip": "ProjectDemo\\Entites\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:06:08.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Entites\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Entites\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Entites\\MyDBContext.cs",
+              "RelativeToolTip": "ProjectDemo\\Entites\\MyDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:23:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProjectDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:04:07.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ProjectDemo\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAqwK4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:23:24.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241125151456_init.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151456_init.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125151456_init.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151456_init.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125151456_init.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:14:57.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241125144205_test.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125144205_test.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125144205_test.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125144205_test.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125144205_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:42:05.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241125151019_init.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151019_init.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125151019_init.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125151019_init.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125151019_init.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:10:19.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241125144610_test1.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125144610_test1.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125144610_test1.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125144610_test1.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125144610_test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:46:10.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "ProjectDemo\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:21:36.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241125143815_addIdentifyForIdProduct1.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125143815_addIdentifyForIdProduct1.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125143815_addIdentifyForIdProduct1.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125143815_addIdentifyForIdProduct1.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125143815_addIdentifyForIdProduct1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:38:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\ViewModel\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\ViewModel\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\ViewModel\\ProductVM.cs",
+              "RelativeToolTip": "ProjectDemo\\ViewModel\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:04:16.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProjectDemo\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:40:06.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Model\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Model\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Model\\ProductModel.cs",
+              "RelativeToolTip": "ProjectDemo\\Model\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:03:16.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241125143231_addIdentifyForIdProduct.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125143231_addIdentifyForIdProduct.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125143231_addIdentifyForIdProduct.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125143231_addIdentifyForIdProduct.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125143231_addIdentifyForIdProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:32:31.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241125142649_changeTypeOfColor.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125142649_changeTypeOfColor.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125142649_changeTypeOfColor.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125142649_changeTypeOfColor.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125142649_changeTypeOfColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:26:49.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Helper\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Helper\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Helper\\PaginatedList.cs",
+              "RelativeToolTip": "ProjectDemo\\Helper\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:41:40.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "ProjectDemo\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:23:56.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Model\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Model\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Model\\CategoryModel.cs",
+              "RelativeToolTip": "ProjectDemo\\Model\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:55:54.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Helper\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Helper\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Helper\\AutoMapperConfiguration.cs",
+              "RelativeToolTip": "ProjectDemo\\Helper\\AutoMapperConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:00:24.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Program.cs",
+              "RelativeToolTip": "ProjectDemo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:36:06.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "ProjectDemo\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:40:48.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\appsettings.json",
+              "RelativeToolTip": "ProjectDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T08:36:10.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\ViewModel\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\ViewModel\\CategoryVM.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\ViewModel\\CategoryVM.cs",
+              "RelativeToolTip": "ProjectDemo\\ViewModel\\CategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:56:42.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "ProjectDemo\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:54:40.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241125094734_f.cs",
+              "DocumentMoniker": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125094734_f.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Migrations\\20241125094734_f.cs",
+              "ToolTip": "C:\\Users\\khanh084\\source\\repos\\ProjectDemo\\ProjectDemo\\Migrations\\20241125094734_f.cs",
+              "RelativeToolTip": "ProjectDemo\\Migrations\\20241125094734_f.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:47:34.665Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

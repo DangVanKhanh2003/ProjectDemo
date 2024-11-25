@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjectDemo</name>
+    </assembly>
+    <members>
+        <member name="M:ProjectDemo.Controllers.CategoryController.GetAll">
+            <summary>
+            Get all category
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectDemo.Controllers.CategoryController.GetById(System.Int32)">
+            <summary>
+            Get category by id
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:ProjectDemo.Controllers.CategoryController.Add(ProjectDemo.Model.CategoryModel)">
+            <summary>
+            Add Category
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectDemo.Controllers.CategoryController.Update(ProjectDemo.Model.CategoryModel,System.Int32)">
+            <summary>
+            Update category by id 
+            </summary>
+            <param name="model"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectDemo.Controllers.CategoryController.Delete(System.Int32)">
+            <summary>
+            Delete catory by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectDemo.Controllers.ProductController.GetAll(System.String)">
+            <summary>
+            List all products.
+            </summary>
+            
+            <remarks>
+             In default, value of sortBy is null.If you want to sort, you can enter value for "sortBy" parameter.
+            </remarks>
+            
+            <param name="sortBy">sortBy: price_desc/price_asc/name_desc/null(default)</param>
+        </member>
+        <member name="M:ProjectDemo.Controllers.ProductController.GetById(System.Int32)">
+            <summary>
+            Get products by id.
+            </summary>
+        </member>
+        <member name="M:ProjectDemo.Controllers.ProductController.CountProducts">
+            <summary>
+            Count products.
+            </summary>
+            
+        </member>
+        <member name="M:ProjectDemo.Controllers.ProductController.GetByPage(System.Int32,System.Int32,System.String)">
+            <summary>
+            List all products by page.
+            </summary>
+            <remarks>
+            Enter pageIndex, pageSize, sortBy.In default, value of sortBy is null.If you want to sort, you can enter value for "sortBy" parameter.
+            </remarks>
+            <param name="sortBy">sortBy: price_desc/price_asc/name_desc/null(default)</param>
+        </member>
+        <member name="M:ProjectDemo.Controllers.ProductController.SearchProductByName(System.String)">
+            <summary>
+            Search product by nameProduct
+            </summary>
+            <param name="nameProduct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectDemo.Controllers.ProductController.Add(ProjectDemo.Model.ProductModel)">
+            <summary>
+            Add new product. 
+            </summary>
+            <remarks>mainImg used for show image product in the card product of list product(mainImg is link img)</remarks>
+        </member>
+        <member name="M:ProjectDemo.Controllers.ProductController.Update(ProjectDemo.Model.ProductModel,System.Int32)">
+            <summary>
+            Update product
+            </summary>
+            
+            <remarks>
+            server find prouduct by id(input) and update the product. mainImg used for show image product in the card product of list product(mainImg is link img)
+            </remarks>
+        </member>
+        <member name="M:ProjectDemo.Controllers.ProductController.Delete(System.Int32)">
+            <summary>
+            Delete product.
+            </summary>
+            
+            <remarks>
+            Server find product and delete.
+            </remarks>
+        </member>
+        <member name="T:ProjectDemo.Migrations.init">
+            <inheritdoc />
+        </member>
+        <member name="M:ProjectDemo.Migrations.init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ProjectDemo.Migrations.init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ProjectDemo.Migrations.init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ProjectDemo.Repository.CategoryRepository.Add(ProjectDemo.Model.CategoryModel)">
+            <summary>
+            Add new category item
+            </summary>
+            <param name="model"></param>
+            <returns> if add success true.</returns>
+        </member>
+        <member name="M:ProjectDemo.Repository.CategoryRepository.Delete(System.Int32)">
+            <summary>
+            Delete category item
+            </summary>
+            <param name="id"></param>
+            <returns>if delete success true.</returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:ProjectDemo.Repository.CategoryRepository.GetAll">
+            <summary>
+            Get all item category in DB
+            </summary>
+            <returns>List category view model</returns>
+        </member>
+        <member name="M:ProjectDemo.Repository.CategoryRepository.GetById(System.Int32)">
+            <summary>
+            Get category by id
+            </summary>
+            <param name="id"></param>
+            <returns>if id exist, return category view model item</returns>
+        </member>
+        <member name="M:ProjectDemo.Repository.CategoryRepository.Update(ProjectDemo.Model.CategoryModel,System.Int32)">
+            <summary>
+            Update category item by id
+            </summary>
+            <param name="model"></param>
+            <param name="id"></param>
+            <returns></returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:ProjectDemo.Repository.CategoryRepository.GetByName(System.String)">
+            <summary>
+            Get category by name
+            </summary>
+            <param name="name"></param>
+            <returns>if name exist, return category view model</returns>
+        </member>
+    </members>
+</doc>
